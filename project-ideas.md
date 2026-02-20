@@ -5,6 +5,8 @@ your own ideas with us via [Discord](https://discord.gg/cybpp4guTJ) or email (`n
 
 Thank you for contributing to open-source 🎉
 
+ _[Click here](./README.md) to go back to the GSoC getting started guide._
+
 ### Neutralinojs builder: a CLI plugin to generate platform-specific app installers
 
 Neutralinojs CLI generates platform-specific binaries for Linux, macOS, and Windows with a platform-independent resource file. Neutralinojs application developers currently should use various tools to create application installers (i.e., AppImage, NSIS) for each operating system. However, we have no plans to add application installer generation support directly to the neu CLI codebase to keep the CLI implementation minimal and less platform-dependent. So, we would like to implement the platform-specific installer generator as a plugin for the official CLI within the official Neutralinojs GitHub organization.
