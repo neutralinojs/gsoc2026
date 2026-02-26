@@ -36,7 +36,7 @@ We really appreciate your code contributions. Please read [this contribution gui
 
 We don't discourage using AI-powered programming tools. If you prefer, you can use AI tools during code contributions, but make sure to carefully review AI-generated code snippets manually before submitting them in pull requests for review. However, we strongly recommend avoiding the following activities with AI:
 
-- Don't automate the whole programming task with AI &mdash; code productivity with AI-powered suggestions instead
+- Don't automate the whole programming task with AI &mdash; code productively with AI-powered suggestions instead
 - Don't generate verbose, artificial pull request descriptions with AI &mdash; write a concise message yourself
 - Don't ask design decisions from AI agents &mdash; study the codebase yourself
 
