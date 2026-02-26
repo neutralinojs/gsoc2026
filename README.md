@@ -56,7 +56,7 @@ Please create your GSoC proposal according to the following outline:
 
 1. Contact details (Name, Country, Email, GitHub username, Discord username, and a small description about yourself)
 2. Neutralinojs experience (Explain your familiarity with Neutralinojs)4
-3. Contributions (Add links to your pull requests, issues, and discussion threads)
+3. Contributions (Add links to your pull requests (include all, even if they aren't merged/reviewed yet), issues, and discussion threads)
 4.  Project description (Describe the project idea)
 5.  Goals (Summary of deliverables)
 6.  Tasks Timeline (Divide your goals into tasks and map them with the GSoC timeline)
