@@ -17,7 +17,7 @@ Difficulty rating: Medium
 
 Project size: ~350h
 
-Mentors: Shalitha Suranga and Athif Shaffy
+Mentors: Shalitha Suranga, Athif Shaffy, and Sajath Ahamed
 
 #### Suggested technical decisions
 
@@ -88,7 +88,7 @@ Difficulty rating: Medium
 
 Project size: ~350h
 
-Mentors: Shalitha Suranga and Athif Shaffy
+Mentors: Shalitha Suranga, Athif Shaffy, and Sajath Ahamed
 
 #### Suggested UI/UX decisions
 
@@ -126,7 +126,7 @@ Difficulty rating: Medium
 
 Project size: ~350h
 
-Mentors: Shalitha Suranga and Athif Shaffy
+Mentors: Shalitha Suranga, Athif Shaffy, and Sajath Ahamed
 
 #### Research ideas
 
